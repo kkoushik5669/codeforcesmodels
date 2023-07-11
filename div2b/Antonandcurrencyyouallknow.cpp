@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+//ascii values of numbers start from 48
 string s;
 int i, k, n, p, m = 9;
 int main()
